@@ -38,7 +38,7 @@ i do not have anything against vegans i just thought it was a funny name when i 
 <a href="https://beta.wolf3d.net/users/167" title="wolf3d" alt="wolf3d">![](./buttons/wolf3d.gif)</a>
 
 #### I also have Zandronum and ZDoom forum accounts. They're both named VL2M STUDIO
-#### If you see other accounts with the names VL2M STUDIO, veganlies2me, EvelinDaBoi, or The Explosives Factory, either it's an account that I use and that I simply didn't mention here (I have a twitch account), an account that I have abandoned (such as the Instagram account), or a fake.
+#### If you see other accounts with the names VL2M STUDIO, veganlies2me, EvelinDaBoi, or The Explosives Factory, either it's an account that I use and that I simply didn't mention here (I have a twitch account), an account that I have abandoned (such as the Instagram account), or a fake
 
 ###### buttons made with hekate2's button maker
 
