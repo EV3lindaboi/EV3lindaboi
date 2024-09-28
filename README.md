@@ -1,6 +1,6 @@
-<font face = "verdana"> <body style="background-color:black;">
+<font face = "verdana">$${\color{black}Black}$$
 
-#### welcome to the official github repo of...
+### welcome to the official github page of...
 <p align="center">
   <img src="./logo.png" />
 </p>
