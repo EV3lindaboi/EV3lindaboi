@@ -26,8 +26,19 @@ i do not have anything against vegans i just thought it was a funny name when i 
 <a href="https://peertube.tv/c/vl2m_studio/videos" title="peertube" alt="peertube" >![](./buttons/peertube.gif)</a>
 <a href="https://evelindaboi.bandcamp.com/" title="bandcamp #1" alt="bandcamp #1">![](./buttons/bandcamp1.gif)</a>
 <a href="https://theexplosivesfactory.bandcamp.com/" title="bandcamp #2" alt="bandcamp #2">![](./buttons/bandcamp2.gif)</a>
+<a href="https://opengameart.org/users/vl2m-studio" title="opengameart" alt="opengameart">![](./buttons/opengameart.gif)</a>
 <a href="https://vl2m-studio.itch.io/" title="itch.io" alt="itch.io">![](./buttons/itchio.gif)</a>
 <a href="https://gamejolt.com/@VL2M_STUDIO" title="gamejolt" alt="gamejolt">![](./buttons/gamejolt.gif)</a>
+<a href="https://www.indiedb.com/members/vl2m-studio" title="indiedb" alt="indiedb">![](./buttons/indiedb.gif)</a>
+<a href="https://www.moddb.com/members/vl2m-studio" title="moddb" alt="moddb">![](./buttons/moddb.gif)</a>
+<a href="https://next.nexusmods.com/profile/VL2MSTUDIO/mods" title="nexusmods" alt="nexusmods">![](./buttons/nexusmods.gif)</a>
+<a href="https://www.gtainside.com/user/VEGANLIES2ME" title="gtainside" alt="gtainside">![](./buttons/gtainside.gif)</a>
+<a href="https://gamebanana.com/members/2020827" title="gamebanana" alt="gamebanana">![](./buttons/gamebanana.gif)</a>
+<a href="https://www.doomworld.com/profile/38454-vl2m-studio/" title="doomworld" alt="doomworld">![](./buttons/doomworld.gif)</a>
+<a href="https://beta.wolf3d.net/users/167" title="wolf3d" alt="wolf3d">![](./buttons/wolf3d.gif)</a>
+
+#### I also have Zandronum and ZDoom forum accounts. They're both named VL2M STUDIO
+#### If you see other accounts with the names VL2M STUDIO, veganlies2me, EvelinDaBoi, or The Explosives Factory, either it's an account that I use and that I simply didn't mention here (I have a twitch account), an account that I have abandoned (such as the Instagram account), or a fake.
 
 ###### buttons made with hekate2's button maker
 
@@ -36,15 +47,4 @@ i do not have anything against vegans i just thought it was a funny name when i 
 ## ADS BUT COOL:
 <a href="http://acvid.carrd.co/" title="acvid" alt="acvid">![](./buttons/acvid.png)</a>
 <a href="https://enikofox.com" title="Eniko does bad things to code"><img src="https://enikofox.com/enikodoesbadthingstocode.png" width="88" height="31" alt="Eniko does bad things to code"></a>
-<!--
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
