@@ -10,9 +10,15 @@ i do not have anything against vegans i just thought it's a funny name when i th
 </p>
 
 </font>
-<!--
-**veganlies2me/veganlies2me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+##
+
+#### i might as well just make it look like if i had my own website lmfao
+
+## here you can find the most recent news from me
+<iframe src="https://mastodon.gamedev.place/@vl2m" title="Mastodon"></iframe>
+<iframe src="https://vl2m-studio.itch.io/" title="itch.io"></iframe> 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
