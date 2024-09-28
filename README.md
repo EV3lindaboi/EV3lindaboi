@@ -1,5 +1,15 @@
-## Hi there 👋
+<font face = "verdana"> <body style="background-color:black;">
 
+#### welcome to the official github repo of...
+<p align="center">
+  <img src="./logo.png" />
+</p>
+
+<p align = "right" size = "1"> 
+i do not have anything against vegans i just thought it's a funny name when i thought of it when i was younger
+</p>
+
+</font>
 <!--
 **veganlies2me/veganlies2me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
