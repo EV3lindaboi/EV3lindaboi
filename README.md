@@ -13,11 +13,14 @@ i do not have anything against vegans i just thought it's a funny name when i th
 
 ##
 
-#### i might as well just make it look like if i had my own website lmfao
+### some cishet male from romania doing some stuff i guess
+### i'm a jack of all trades . . . master of none . . . doing whatever the hell comes in my mind...
 
-## here you can find the most recent news from me
-<iframe src="https://mastodon.gamedev.place/@vl2m" title="Mastodon"></iframe>
-<iframe src="https://vl2m-studio.itch.io/" title="itch.io"></iframe> 
+#### go check my github repos or maybe my other stuff on other sites, which are down below:
+<a href="https://twitter.com/VL2M_STUDIO" rel="some text">![Foo](./buttons/twitter.gif)</a>
+<a href="https://mastodon.gamedev.place/@vl2m" rel="some text">![Foo](./buttons/mastodon.gif)</a>
+#### if you want to contact me you can send me a discord message @vl2mstudio or an email @vl2mstudio@proton.me
+
 <!--
 Here are some ideas to get you started:
 
