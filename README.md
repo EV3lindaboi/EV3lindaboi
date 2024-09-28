@@ -1,4 +1,4 @@
-<font face = "verdana">$${\color{black}Black}$$
+<font face = "verdana">
 
 ### welcome to the official github page of...
 <p align="center">
