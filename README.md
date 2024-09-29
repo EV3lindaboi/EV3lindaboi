@@ -47,4 +47,4 @@ i do not have anything against vegans i just thought it was a funny name when i 
 ## ADS BUT COOL:
 <a href="http://acvid.carrd.co/" title="acvid" alt="acvid">![](./buttons/acvid.png)</a>
 <a href="https://enikofox.com" title="Eniko does bad things to code"><img src="https://enikofox.com/enikodoesbadthingstocode.png" width="88" height="31" alt="Eniko does bad things to code"></a>
-
+<a href="https://librequake.queer.sh/" title="Librequake" alt="Librequake">![](./buttons/lq-link.png)</a>
