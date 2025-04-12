@@ -17,7 +17,6 @@ i do not have anything against vegans i just thought it was a funny name when i 
 ### i'm a jack of all trades . . . master of none . . . doing whatever the hell comes in my mind...
 
 #### go check my github repos or maybe my other stuff on other sites, which are down below:
-<a href="https://twitter.com/VL2M_STUDIO" title="twitter" alt="twitter">![](./buttons/twitter.gif)</a>
 <a href="https://mastodon.gamedev.place/@vl2m" title="mastodon" alt="mastodon">![](./buttons/mastodon.gif)</a>
 <a href="https://bsky.app/profile/vl2m.bsky.social" title="bluesky" alt="bluesky">![](./buttons/bluesky.gif)</a>
 <a href="https://www.youtube.com/@vl2mstudio" title="youtube #1" alt="youtube #1">![](./buttons/youtube1.gif)</a>
