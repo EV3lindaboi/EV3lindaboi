@@ -6,7 +6,7 @@
 </p>
 
 <p align = "right" size = "1"> 
-i do not have anything against vegans i just thought it was a funny name when i thought of it when i was younger
+i do not have anything against vegans i just thought it was a funny name when i thought of it when i was younger; i will change the name one day maybe...
 </p>
 
 </font>
