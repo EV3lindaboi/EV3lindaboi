@@ -1,19 +1,10 @@
 <font face = "verdana">
 
-### welcome to the official github page of...
+### welcome to the official github page of EV3
 <p align="center">
   <img src="./logo.png" />
 </p>
 
-<p align = "right" size = "1"> 
-i do not have anything against vegans i just thought it was a funny name when i thought of it when i was younger; i will change the name one day maybe...
-</p>
-
-</font>
-
-##
-
-### some cishet male from romania doing some stuff i guess
 ### i'm a jack of all trades . . . master of none . . . doing whatever the hell comes in my mind...
 
 #### go check my github repos or maybe my other stuff on other sites, which are down below:
@@ -37,11 +28,11 @@ i do not have anything against vegans i just thought it was a funny name when i 
 <a href="https://beta.wolf3d.net/users/167" title="wolf3d" alt="wolf3d">![](./buttons/wolf3d.gif)</a>
 
 #### I also have Zandronum and ZDoom forum accounts. They're both named VL2M STUDIO
-#### If you see other accounts with the names VL2M STUDIO, veganlies2me, EvelinDaBoi, or The Explosives Factory, either it's an account that I use and that I simply didn't mention here (I have a twitch account), an account that I have abandoned (such as the Instagram account), or a fake
+#### If you see other accounts with the names EV3, EV3lindaboi, VL2M STUDIO, veganlies2me, EvelinDaBoi, or The Explosives Factory, either it's an account that I use and that I simply didn't mention here (I have a twitch account), an account that I have abandoned (such as the Instagram account), or a fake
 
 ###### buttons made with hekate2's button maker
 
-#### if you want to contact me you can send me a discord message @vl2mstudio or an email @vl2mstudio@proton.me
+#### if you want to contact me you can send me a discord message @evelindaboi or an email @vl2mstudio@proton.me
 
 ## ADS BUT COOL:
 <a href="http://acvid.carrd.co/" title="acvid" alt="acvid">![](./buttons/acvid.png)</a>
