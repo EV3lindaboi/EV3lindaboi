@@ -9,7 +9,7 @@
 
 #### go check my github repos or maybe my other stuff on other sites, which are down below:
 <a href="https://mastodon.gamedev.place/@vl2m" title="mastodon" alt="mastodon">![](./buttons/mastodon.gif)</a>
-<a href="https://bsky.app/profile/vl2m.bsky.social" title="bluesky" alt="bluesky">![](./buttons/bluesky.gif)</a>
+<a href="https://bsky.app/profile/ev3lindaboi.bsky.social" title="bluesky" alt="bluesky">![](./buttons/bluesky.gif)</a>
 <a href="https://www.youtube.com/@vl2mstudio" title="youtube #1" alt="youtube #1">![](./buttons/youtube1.gif)</a>
 <a href="https://www.youtube.com/@evelin1006" title="youtube #2" alt="youtube #2">![](./buttons/youtube2.gif)</a>
 <a href="https://www.youtube.com/@TheExplosivesFactory" title="youtube #3" alt="youtube #3" >![](./buttons/youtube3.gif)</a>
@@ -18,13 +18,13 @@
 <a href="https://theexplosivesfactory.bandcamp.com/" title="bandcamp #2" alt="bandcamp #2">![](./buttons/bandcamp2.gif)</a>
 <a href="https://opengameart.org/users/vl2m-studio" title="opengameart" alt="opengameart">![](./buttons/opengameart.gif)</a>
 <a href="https://vl2m-studio.itch.io/" title="itch.io" alt="itch.io">![](./buttons/itchio.gif)</a>
-<a href="https://gamejolt.com/@VL2M_STUDIO" title="gamejolt" alt="gamejolt">![](./buttons/gamejolt.gif)</a>
-<a href="https://www.indiedb.com/members/vl2m-studio" title="indiedb" alt="indiedb">![](./buttons/indiedb.gif)</a>
-<a href="https://www.moddb.com/members/vl2m-studio" title="moddb" alt="moddb">![](./buttons/moddb.gif)</a>
-<a href="https://next.nexusmods.com/profile/VL2MSTUDIO/mods" title="nexusmods" alt="nexusmods">![](./buttons/nexusmods.gif)</a>
+<a href="https://gamejolt.com/@EV3linDaBoi" title="gamejolt" alt="gamejolt">![](./buttons/gamejolt.gif)</a>
+<a href="https://www.indiedb.com/members/ev31" title="indiedb" alt="indiedb">![](./buttons/indiedb.gif)</a>
+<a href="https://www.moddb.com/members/ev31" title="moddb" alt="moddb">![](./buttons/moddb.gif)</a>
+<a href="https://next.nexusmods.com/profile/EV3linDaBoi" title="nexusmods" alt="nexusmods">![](./buttons/nexusmods.gif)</a>
 <a href="https://www.gtainside.com/user/VEGANLIES2ME" title="gtainside" alt="gtainside">![](./buttons/gtainside.gif)</a>
 <a href="https://gamebanana.com/members/2020827" title="gamebanana" alt="gamebanana">![](./buttons/gamebanana.gif)</a>
-<a href="https://www.doomworld.com/profile/38454-vl2m-studio/" title="doomworld" alt="doomworld">![](./buttons/doomworld.gif)</a>
+<a href="https://www.doomworld.com/profile/38454-ev3/" title="doomworld" alt="doomworld">![](./buttons/doomworld.gif)</a>
 <a href="https://beta.wolf3d.net/users/167" title="wolf3d" alt="wolf3d">![](./buttons/wolf3d.gif)</a>
 
 #### I also have Zandronum and ZDoom forum accounts. They're both named VL2M STUDIO
