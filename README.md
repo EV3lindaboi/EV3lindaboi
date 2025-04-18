@@ -16,7 +16,7 @@
 <a href="https://peertube.tv/c/vl2m_studio/videos" title="peertube" alt="peertube" >![](./buttons/peertube.gif)</a>
 <a href="https://evelindaboi.bandcamp.com/" title="bandcamp #1" alt="bandcamp #1">![](./buttons/bandcamp1.gif)</a>
 <a href="https://theexplosivesfactory.bandcamp.com/" title="bandcamp #2" alt="bandcamp #2">![](./buttons/bandcamp2.gif)</a>
-<a href="https://opengameart.org/users/vl2m-studio" title="opengameart" alt="opengameart">![](./buttons/opengameart.gif)</a>
+<a href="https://opengameart.org/users/ev3" title="opengameart" alt="opengameart">![](./buttons/opengameart.gif)</a>
 <a href="https://vl2m-studio.itch.io/" title="itch.io" alt="itch.io">![](./buttons/itchio.gif)</a>
 <a href="https://gamejolt.com/@EV3linDaBoi" title="gamejolt" alt="gamejolt">![](./buttons/gamejolt.gif)</a>
 <a href="https://www.indiedb.com/members/ev31" title="indiedb" alt="indiedb">![](./buttons/indiedb.gif)</a>
