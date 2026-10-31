@@ -32,7 +32,7 @@
 
 ###### buttons made with hekate2's button maker
 
-#### if you want to contact me you can send me a discord message @evelindaboi or an email @vl2mstudio@proton.me
+#### if you want to contact me you can send me a discord message @evelindaboi
 
 ## ADS BUT COOL:
 <a href="http://acvid.carrd.co/" title="acvid" alt="acvid">![](./buttons/acvid.png)</a>
